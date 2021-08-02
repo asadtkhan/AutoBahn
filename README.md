@@ -1,9 +1,4 @@
-# Prajwal Rai
-This a project of Prajwal and Asad.
-# Setting up the project
-## change you directory
-`cd prajwal_rai`
-## instll dependencies
+# instll dependencies
 If you are using npm for dependencies, follow the instructions in the next line
 `npm install`
 For yarn user enter the following command
